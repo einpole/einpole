@@ -8,7 +8,7 @@
 
 ## 🌐 Discord Profil & Status
 **Live Discord Status:**  
-![Noah's Discord Status](https://lanyard-profile-readme.vercel.app/api/1091616866868400139)
+![Noah's Discord Status](https://lanyard.cnrad.dev/api/1091616866868400139)](https://discord.com/users/1091616866868400139)
 
 ---
 
