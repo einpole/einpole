@@ -8,7 +8,7 @@
 
 ## 🌐 Discord Profil & Status
 **Live Discord Status:**  
-[![Noah Presence](https://lanyard.cnrad.dev/api/1091616866868400139?theme=dark)](https://discord.com/users/1091616866868400139)
+[![Noah Presence](https://lanyard.cnrad.dev/api/1091616866868400139?theme=dark)](https;//sh.nxah.de)
 
 ---
 
