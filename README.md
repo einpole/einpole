@@ -36,9 +36,6 @@
 - **Gameunity:** [Discord](https://discord.gg/ysEkN86Hap) 
 - **VoidNest:** [Discord](https://discord.gg/fr6MBFvpc6) 
 
-### 🧪 Test Supporter
-- **Skyron:** [Discord](https://discord.gg/rukszWKjyp)
-
 ---
 
 ## 📇 Profile
