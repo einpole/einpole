@@ -24,9 +24,6 @@
 
 ## 👥 Teams & Communities
 
-### 🏆 Inhaber
-- **SynCity:** [Discord](https://discord.gg/nkK7XKASqa)
-
 ### 💻 Developer
 - **Busbahnhof:** [Discord](https://discord.gg/busbahnhof)
 - **Gameunity:** [Discord](https://discord.gg/ysEkN86Hap) 
