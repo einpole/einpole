@@ -25,6 +25,5 @@
 ## 👥 Teams & Communities
 
 ### 💻 Developer
-- **Busbahnhof:** [Discord](https://discord.gg/busbahnhof)
 - **Gameunity:** [Discord](https://discord.gg/ysEkN86Hap) 
 - **VoidNest:** [Discord](https://discord.gg/fr6MBFvpc6) 
