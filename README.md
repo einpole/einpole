@@ -1,29 +1,21 @@
 # 👨‍💻 Persönliches
-- **Name:** Noah
+- **Name:** Nobu
 - **Hobbys:** Development, Musik, Author, Synchronsprecher, Fanduber
-- **Email:** [noah@mailgen.pl](mailto:noah@mailgen.pl)
+- **Email:** [nobu@madezmt.eu](mailto:nobu@madezmt.eu)
 - **Discord:** [LegendaryLounge](https://legendarylounge.de)
 
 ---
 
 ## 🌐 Discord Profil & Status
 **Live Discord Status:**  
-[![Noah Presence](https://lanyard.cnrad.dev/api/1091616866868400139?theme=dark)](https://sh.nxah.de)
+[![Noah Presence](https://lanyard.cnrad.dev/api/1091616866868400139?theme=dark)](https://mrnobu.de)
 
 ---
 
 ## 🖥️ Portfolio & Hosting
-- **Portfolio:** [nxah.de](https://nxah.de)
+- **Portfolio:** [nxah.de](https://mrnobu.de)
   
 ---
 
 ## 🤖 Discord Bots
 - **Infyno:** [infyno.de](https://infyno.de)
-
----
-
-## 👥 Teams & Communities
-
-### 💻 Developer
-- **Gameunity:** [Discord](https://discord.gg/ysEkN86Hap) 
-- **VoidNest:** [Discord](https://discord.gg/fr6MBFvpc6) 
