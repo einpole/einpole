@@ -18,4 +18,4 @@
 ---
 
 ## 🤖 Discord Bots
-- **Infyno:** [infyno.de](https://infyno.de)
+- **Infyno:** [infyno.xyz](https://infyno.xyz)
